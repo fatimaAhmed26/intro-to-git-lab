@@ -15,3 +15,4 @@ ANSWER: brings the reop to the comuter
 3. Once you've cloned the repo, how do you open it in VS Code?
 
 ANSWER: code . 
+Fatema 
